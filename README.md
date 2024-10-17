@@ -1,2 +1,2 @@
 # sudoku2solver
-Human solvable methods for solving sudoku puzzle
+Human-like methods for solving sudoku puzzle
