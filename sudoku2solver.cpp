@@ -118,7 +118,8 @@ void show_help(int argc, char**argv) {
 	std::cout << "Options: \n" <<
 		"\t-h (--help) - Shows help\n" <<
 		"\t-G (--no-header) - File contains just content (must be a specific type)\n" <<
-		"\t-H (--skip-header) - Skip file header (must be a specific type)" << std::endl;
+		"\t-H (--skip-header) - Skip file header (must be a specific type)\n"
+		"\t-m (--memory-wise) - Use memory-wise method for solving" << std::endl;
 }
 
 int main(int argc, char** argv)
