@@ -10,6 +10,7 @@
 //#include "sam2sudoku.cpp"
 #include "sam2sudoku.h"
 #include <cstdarg>
+#include <cstring>
 
 void pokusdisp(int* zadanie, ...);
 

@@ -7,6 +7,7 @@
 #include <cstdarg>
 #include <set>
 #include <algorithm>
+#include <cstring>
 #include "sam2sudoku.h"
 
 
